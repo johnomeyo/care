@@ -1,1 +1,2 @@
 # care
+<!-- This application is designed to empower users, particularly professionals and developers, in cultivating an optimized lifestyle aimed at achieving unparalleled productivity and effectiveness. -->
